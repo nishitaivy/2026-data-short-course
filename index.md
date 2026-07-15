@@ -115,4 +115,4 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | ----------- | ----------- | ---------- | ---------- |
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | Lilly Jones (instructor) | ESIIL; Earth Lab        | lijo8146  | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
-| Nayani Ilangakoon (Participant) | Earth Lab        | chathu84  | [https://chathu84.github.io/nayani_ilangakoon.github.io/](https://chathu84.github.io/nayani_ilangakoon.github.io/) |
+| Nayani Ilangakoon (Participant) | Earth Lab        | chathu84  | [https://chathu84.github.io/nayani_ilangakoon.github.io/](https://chathu84.github.io/nayani-I.github.io/)
